@@ -60,6 +60,4 @@ This project analyzes customer behavior for an e-commerce company to:  Understan
 ### Results Summary
 * **Classification Accuracy:** ~85–90% (varies by dataset)
 * Identified **3–4 key customer segments**
-* Provided actionable insights for targeted marketing
-Data Science & Machine Learning Enthusiast
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/yourusername)
+* Provided actionable insights for targeted marketingience & Machine Learning Enthusiast.
